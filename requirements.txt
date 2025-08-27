@@ -1,0 +1,6 @@
+PyQt5
+opencv-python
+mediapipe
+tensorflow
+vosk
+pyttsx3
