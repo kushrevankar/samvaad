@@ -2,9 +2,9 @@
 
 ```
 samvaad/
-  ├── gui/          # PyQt files (Araham)
+  ├── gui/          # ReactJS (Ansh)
   ├── cv_module/    # ISL recognition (Shreyas)
-  ├── voice_module/ # STT + translation + TTS (Ansh)
+  ├── voice_module/ # STT + translation + TTS (Araham)
   ├── integration/  # Integration (Kush)
   ├── assets/       # Icons, UI assets, etc.
   ├── main.py       # Final app entry point
